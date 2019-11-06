@@ -1,4 +1,3 @@
-import 'dart:wasm';
 import 'package:med/blocs/language_bloc.dart';
 import 'package:med/pages/search.dart';
 import 'package:med/sqlite/db_helper.dart';
